@@ -1,0 +1,33 @@
+[ {
+  "category" : "meat, bird",
+  "description" : "Соус Терияки придумали повара из Японии. По традиции его используют в качестве маринада для...",
+  "id" : "b001",
+  "image" : "./img/category/chickenTeriyaki.png",
+  "name" : "Куриные крылья под соусом Терияки",
+  "price" : 260,
+  "weight" : 500
+}, {
+  "category" : "vegetable, popular",
+  "description" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus eum molestias debitis, hic sunt ea commodi culpa perferendis adipisci voluptates.",
+  "id" : "v001",
+  "image" : "./img/category/placeholder270x203.png",
+  "name" : "Обжаренные шампиньоны с картофелем под сливочным соусом",
+  "price" : 245,
+  "weight" : 350
+}, {
+  "category" : "meat, popular",
+  "description" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequuntur, quasi cupiditate laborum omnis odit ratione rem ipsa voluptatum iure nam ducimus? Expedita dolores nobis obcaecati!",
+  "id" : "m001",
+  "image" : "./img/category/placeholder270x203.png",
+  "name" : "Тушеная говядина под чесночно-сливочным соусом",
+  "price" : 400,
+  "weight" : 450
+}, {
+  "category" : "meat",
+  "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, ut id eaque sint error reiciendis!",
+  "id" : "m002",
+  "image" : "./img/category/placeholder270x203.png",
+  "name" : "Горшочек с жаренной свининой и картофелем",
+  "price" : 500,
+  "weight" : 620
+} ]
